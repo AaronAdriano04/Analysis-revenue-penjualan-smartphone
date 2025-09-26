@@ -97,10 +97,3 @@ Pendekatan yang digunakan menggabungkan:
    ```
 
 ---
-
-## 📷 Example Visualizations  
-| Total Penjualan per Brand | Korelasi Variabel | Feature Importance |  
-|---------------------------|------------------|--------------------|  
-| ![Brand Sales](visuals/brand_sales.png) | ![Heatmap](visuals/correlation_heatmap.png) | ![Feature Importance](visuals/feature_importance.png) |  
-
----
